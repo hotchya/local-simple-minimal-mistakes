@@ -8,26 +8,26 @@
 
 2. Install jekyll & bundler
 
-```
+```bash
 gem install jekyll bundler
 ```
 
 3. clone or download code
 
-```
+```bash
 git clone https://github.com/hotchya/local-simple-minimal-mistakes.git
 ```
 
 4. Download library dependencies
 
-```
+```bash
 cd local-simple-minimal-mistakes
 bundle install
 ```
 
 5. Execute jekyll server
 
-```
+```bash
 bundle exec jekyll serve
 ```
 
