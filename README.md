@@ -16,12 +16,12 @@ gem install jekyll bundler
 
 ```bash
 git clone https://github.com/hotchya/local-simple-minimal-mistakes.git
+cd local-simple-minimal-mistakes
 ```
 
 4. Download library dependencies
 
-```bash
-cd local-simple-minimal-mistakes
+```ruby
 bundle install
 ```
 
