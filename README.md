@@ -8,7 +8,7 @@
 
 2. Install jekyll & bundler
 
-```bash
+```ruby
 gem install jekyll bundler
 ```
 
@@ -27,7 +27,7 @@ bundle install
 
 5. Execute jekyll server
 
-```bash
+```ruby
 bundle exec jekyll serve
 ```
 
