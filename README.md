@@ -4,6 +4,8 @@
 
 1. Install rudy
 
+https://www.ruby-lang.org/
+
 2. Install jekyll & bundler
 
 ```
